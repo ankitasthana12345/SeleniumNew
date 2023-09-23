@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-15T01:28:46 IST" name="Default suite" finished-at="2023-02-15T01:28:46 IST" duration-ms="38">
+    <groups>
+    </groups>
+    <test started-at="2023-02-15T01:28:46 IST" name="Default test" finished-at="2023-02-15T01:28:46 IST" duration-ms="38">
+      <class name="testnglearning.TestParameter">
+        <test-method signature="doLogin(java.lang.String,java.lang.String)[pri:0, instance:testnglearning.TestParameter@6973b51b]" started-at="2023-02-15T01:28:46 IST" name="doLogin" data-provider="dp" finished-at="2023-02-15T01:28:46 IST" duration-ms="4" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Name]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Ankit]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doLogin -->
+        <test-method signature="doLogin(java.lang.String,java.lang.String)[pri:0, instance:testnglearning.TestParameter@6973b51b]" started-at="2023-02-15T01:28:46 IST" name="doLogin" data-provider="dp" finished-at="2023-02-15T01:28:46 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Name]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Sunil]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doLogin -->
+      </class> <!-- testnglearning.TestParameter -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
